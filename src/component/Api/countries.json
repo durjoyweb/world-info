@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Bangladesh",
+    "capital": "Dhaka",
+    "flag": "https://flagcdn.com/w320/bd.png",
+    "population": 170000000
+  },
+  {
+    "name": "India",
+    "capital": "New Delhi",
+    "flag": "https://flagcdn.com/w320/in.png",
+    "population": 1420000000
+  },
+  {
+    "name": "United States",
+    "capital": "Washington, D.C.",
+    "flag": "https://flagcdn.com/w320/us.png",
+    "population": 331000000
+  },
+  {
+    "name": "France",
+    "capital": "Paris",
+    "flag": "https://flagcdn.com/w320/fr.png",
+    "population": 67000000
+  },
+  {
+    "name": "Japan",
+    "capital": "Tokyo",
+    "flag": "https://flagcdn.com/w320/jp.png",
+    "population": 125000000
+  },
+
+  {
+    "name": "Afghanistan",
+    "capital": "Kabul",
+    "population": 42000000,
+    "flag": "https://flagcdn.com/w320/af.png"
+  },
+  {
+    "name": "Albania",
+    "capital": "Tirana",
+    "population": 2870000,
+    "flag": "https://flagcdn.com/w320/al.png"
+  },
+  {
+    "name": "Algeria",
+    "capital": "Algiers",
+    "population": 44900000,
+    "flag": "https://flagcdn.com/w320/dz.png"
+  }
+]

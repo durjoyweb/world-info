@@ -1,0 +1,72 @@
+[
+  {
+    "Id": "1",
+    "countryname": "Japan",
+    "capital": "Tokyo",
+    "population": 126000000,
+    "interesting_fact": "Japan has more than 50,000 people who are over 100 years old."
+  },
+  {
+    "Id": "2",
+    "countryname": "Brazil",
+    "capital": "Brasília",
+    "population": 214000000,
+    "interesting_fact": "Brazil is the largest exporter of coffee in the world."
+  },
+  {
+    "Id": "3",
+    "countryname": "Canada",
+    "capital": "Ottawa",
+    "population": 38000000,
+    "interesting_fact": "Canada has more lakes than the rest of the world combined."
+  },
+  {
+    "Id": "4",
+    "countryname": "Australia",
+    "capital": "Canberra",
+    "population": 25000000,
+    "interesting_fact": "Australia is the only continent that is also a single country."
+  },
+  {
+    "Id": "5",
+    "countryname": "Egypt",
+    "capital": "Cairo",
+    "population": 102000000,
+    "interesting_fact": "Ancient Egyptians used to play bowling."
+  },
+  {
+    "Id": "6",
+    "countryname": "India",
+    "capital": "New Delhi",
+    "population": 1400000000,
+    "interesting_fact": "India has the world's largest postal network."
+  },
+  {
+    "Id": "7",
+    "countryname": "Mexico",
+    "capital": "Mexico City",
+    "population": 128000000,
+    "interesting_fact": "The modern day color tv was invented by a mexican."
+  },
+  {
+    "Id": "8",
+    "countryname": " Africa",
+    "capital": "Pretoria",
+    "population": 60000000,
+    "interesting_fact": "South Africa has the world's largest land-based animal, the African elephant, and the world's largest marine animal, the blue whale."
+  },
+  {
+    "Id": "9",
+    "countryname": "Iceland",
+    "capital": "Reykjavik",
+    "population": 370000,
+    "interesting_fact": "Iceland has no mosquitoes."
+  },
+  {
+    "Id": "10",
+    "countryname": "Argentina",
+    "capital": "Buenos Aires",
+    "population": 45000000,
+    "interesting_fact": "Argentina is the birthplace of tango."
+  }
+]
