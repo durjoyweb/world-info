@@ -1,5 +1,6 @@
 import React from "react";
 import { FaArrowRight } from "react-icons/fa";
+import img from "../images/World.jpg";
 function Herosection() {
   return (
     <div>
@@ -20,7 +21,7 @@ function Herosection() {
           </button>
         </div>
         <div>
-          <img src="src\assets\images\world.jpg" />
+          <img src={img} />
         </div>
       </div>
     </div>
