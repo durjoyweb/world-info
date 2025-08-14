@@ -4,8 +4,8 @@ import CountryData from "../component/Api/CountryData.json";
 export default function About() {
   return (
     <div>
-      <div class="bg-black text-white h-screen justify-center items-center  m-auto ">
-        <h1 class="text-4xl font-bold text-center       pt-20">
+      <div class="bg-black text-white h-100% justify-center items-center pb-7  ">
+        <h1 class="text-4xl font-bold text-center  pt-20">
           Here are ther interrasting facts <br />
           we're proud of
         </h1>

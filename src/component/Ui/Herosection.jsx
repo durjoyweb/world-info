@@ -14,9 +14,9 @@ function Herosection() {
             search <br />
             and filter though countries to find the details you need.{" "}
           </p>
-          <button class=" mt-10 bg-blue-600 text-white w-[15rem] h-[3rem] rounded-2xl hover:bg-gray-500 hover:text-white flex justify-between items-center p-2 font-bold">
+          <button class=" mt-10 bg-blue-600 text-white w-[12rem] h-[3rem] rounded-2xl hover:bg-gray-500 hover:text-white flex justify-between items-center p-2 hover:scale-105 font-bold">
             Discover Countries
-            <FaArrowRight />
+            <FaArrowRight className="" />
           </button>
         </div>
         <div>
