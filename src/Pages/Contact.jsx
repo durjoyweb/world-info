@@ -1,5 +1,5 @@
 import React from "react";
-
+import img from "../component/images/world.jpg";
 export default function Contact() {
   return (
     <div>
@@ -54,7 +54,7 @@ export default function Contact() {
             </form>
             <div className="ml-50">
               {" "}
-              <img src="src\assets\images\world.jpg" />
+              <img src={img} />
             </div>
           </div>
         </div>
